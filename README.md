@@ -155,11 +155,11 @@ Bei Bildern handelt es sich um einen Sonderfall eines Verweises, der nicht auf e
 > __Kein Teil ist unnütz__
 
 
-[Markdown Bild](https://upload.wikimedia.org/wikipedia/commons/4/48/Markdown-mark.svg)
+![Markdown Bild](https://upload.wikimedia.org/wikipedia/commons/4/48/Markdown-mark.svg)
 
 > Der **Name** eines Verweises kann auch ein Bild sein (`[name](url)`). Versuchen Sie, ein Bild als Verweis zu zeigen, indem Sie die Schreibweise für einen Bild-Verweis innerhalb eines normalen Verweises benutzen.
 
-[Name](#verweise)
+[![Markdown Bild](https://upload.wikimedia.org/wikipedia/commons/4/48/Markdown-mark.svg)](#formatierungen)
 
 ### Code
 
