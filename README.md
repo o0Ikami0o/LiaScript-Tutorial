@@ -33,7 +33,9 @@ import:   https://github.com/LiaTemplates/KekuleJS
 Dieser Kurs soll einen interaktiven Einstieg in die Entwicklung von interaktiven online-Kursen mit LiaScript geben. Im ersten Teil sollen die Grundlagen von Markdown erläutert werden, dieser Teil bildet das Grundgerüst für Textformatierungen, Blöcke und die Strukturierung von Dokumenten. Der zweite Teil geht auf die interaktiven LiaScript-Erweiterungen und deren Einsatz/Konfiguration ein.
 
 Zu jedem Abschnitt gibt es eine kleine Aufgabe, die Sie direkt im Dokument ausführen können.
-
++ hier könnte Ihre Werbung stehen:
+  + Seife
+  + Butter
 > Wechseln Sie dazu zunächst die Ansicht, um auch den „Code“ zu sehen. Links oben, neben dem Schriftzug _CodiLIA_ können auf den Stift (nur der Code), das stilisierte Buch (Editor und Vorschau) oder das Auge (nur Vorschau) wechseln.
 
 ![Moduswechsel](pic/CodiLIA_1.png)<!-- style="width: 95%;" -->
