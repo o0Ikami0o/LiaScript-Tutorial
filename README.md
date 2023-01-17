@@ -27,7 +27,7 @@ import:   https://github.com/LiaTemplates/KekuleJS
 -->
 
 
-# Tutorial
+# Tutorial für OER
 
 
 Dieser Kurs soll einen interaktiven Einstieg in die Entwicklung von interaktiven online-Kursen mit LiaScript geben. Im ersten Teil sollen die Grundlagen von Markdown erläutert werden, dieser Teil bildet das Grundgerüst für Textformatierungen, Blöcke und die Strukturierung von Dokumenten. Der zweite Teil geht auf die interaktiven LiaScript-Erweiterungen und deren Einsatz/Konfiguration ein.
