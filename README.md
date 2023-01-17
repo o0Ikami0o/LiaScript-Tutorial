@@ -168,9 +168,9 @@ Sie können natürlich auch direkt HTML in den meisten Markdown-Interpretern nut
 In Markdown können hierfür drei aufeinander folgende Backticks (\`) genutzt. Auf einer deutschen Tastatur ist das die Taste rechts neben dem **[ ß ]**, wobei die Tasten **[Shift] [ \` ]** gemeinsam gedrückt werden müssen.
 
 > **Aufgabe:** Fügen Sie drei Backticks oberhalb des HTML-Schnipsels und drei unterhalb ein, um den Abschnitt als Code-Segment zu markieren und beobachten Sie, was passiert!
-'''
+```
 printf("Hello Wolrd")
-'''
+```
 
 <h2>
   <b style="color: green">LiaScript-ruleZ</b>
