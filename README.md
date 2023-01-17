@@ -168,7 +168,7 @@ Sie können natürlich auch direkt HTML in den meisten Markdown-Interpretern nut
 In Markdown können hierfür drei aufeinander folgende Backticks (\`) genutzt. Auf einer deutschen Tastatur ist das die Taste rechts neben dem **[ ß ]**, wobei die Tasten **[Shift] [ \` ]** gemeinsam gedrückt werden müssen.
 
 > **Aufgabe:** Fügen Sie drei Backticks oberhalb des HTML-Schnipsels und drei unterhalb ein, um den Abschnitt als Code-Segment zu markieren und beobachten Sie, was passiert!
-```
+```C
 printf("Hello Wolrd")
 ```
 
@@ -201,6 +201,10 @@ Wie würden Sie eine Tabelle mit nur einer Schreibmaschine darstellen? Wahrschei
 
 > **Aufgabe:** Erweitern Sie die Tabelle um mehrere Zeilen und Spalten, fügen Sie verschieden lange Inhalte/Formatierungen ein und verändern sie die Ausrichtung der Spalten.
 
+| Kopf 1 | Kopf 2 | Kopf 3 |Kopf 5|
+|:------ |:------:| ------:|:-----:|
+| Item 1 | Item 2 | Item 3 | Item |
+| ...    |  ...   |    ... |........|
 
 ## Was ist LiaScript?
 
