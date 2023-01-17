@@ -134,7 +134,7 @@ Nichts funktioniert im Internet ohne Verweise/Links und Markdown unterstützt ve
 
 [*LiaScript Doku*](https://liascript.github.io/course/?https://raw.githubusercontent.com/liaScript/docs/master/README.md#1)
 
-[**Formatierung**](#Formatierung)
+[**Formatierung**](#formatierungen)
 
 Zugegeben, das sieht nicht ganz hübsch aus für überlange Adressen und stört ggf. beim Lesefluss. Deshalb bietet Markdown noch die Möglichkeit Verweise zu formatieren. Das Muster hierfür sieht wie folgt aus `[name](url)`. In eckigen Klammern wird nun der neue Kurzname für den Verweis dargestellt und in runden Klammern die Adresse.
 
