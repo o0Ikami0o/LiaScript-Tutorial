@@ -36,6 +36,8 @@ Zu jedem Abschnitt gibt es eine kleine Aufgabe, die Sie direkt im Dokument ausf�
 + hier könnte Ihre Werbung stehen:
   + Seife
   + Butter
+> Hier ist die Werbung
+
 > Wechseln Sie dazu zunächst die Ansicht, um auch den „Code“ zu sehen. Links oben, neben dem Schriftzug _CodiLIA_ können auf den Stift (nur der Code), das stilisierte Buch (Editor und Vorschau) oder das Auge (nur Vorschau) wechseln.
 
 ![Moduswechsel](pic/CodiLIA_1.png)<!-- style="width: 95%;" -->
@@ -130,7 +132,9 @@ Manchmal sollen Elemente im Text hervorgehoben werden, kursiv, dick, hochgestell
 
 Nichts funktioniert im Internet ohne Verweise/Links und Markdown unterstützt verschiedene Formen, direkte und formatierte. Sie können überall im Text die gesamte Adresse einer Webseite einfügen, wenn dies mit http oder https beginnt und das Muster einer Web-Adresse entspricht, dann wird diese auch als klickbarer Verweis dargestellt. Das folgende Beispiel zeigt den direkten Link zur interaktiven LiaScript Dokumentation:
 
-https://liascript.github.io/course/?https://raw.githubusercontent.com/liaScript/docs/master/README.md#1
+[*LiaScript Doku*](https://liascript.github.io/course/?https://raw.githubusercontent.com/liaScript/docs/master/README.md#1)
+
+#Formatierung
 
 Zugegeben, das sieht nicht ganz hübsch aus für überlange Adressen und stört ggf. beim Lesefluss. Deshalb bietet Markdown noch die Möglichkeit Verweise zu formatieren. Das Muster hierfür sieht wie folgt aus `[name](url)`. In eckigen Klammern wird nun der neue Kurzname für den Verweis dargestellt und in runden Klammern die Adresse.
 
