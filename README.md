@@ -281,7 +281,7 @@ Damit die Darstellung auch im Text optisch ansprechender dargestellt wird, könn
 #### Mikro-Animationen
 
 Es kann auch vorkommen, dass nur ein Wort, ein Bild oder ein anderes Element innerhalb eines Blocks ein und ausgeblendet werden soll. Nutzen sie hierfür die folgende Notation, zwei nebeneinander stehende geschweifte Klammer-Blöcke:
-
+Rababer
 * Einblenden: {2}{kleine __Markdown__-Elemente}
 * Ein- und Ausblenden: `{1-3}{kleine __Markdown__-Element}`
 
