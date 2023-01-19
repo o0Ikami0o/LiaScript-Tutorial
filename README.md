@@ -50,7 +50,7 @@ Zu jedem Abschnitt gibt es eine kleine Aufgabe, die Sie direkt im Dokument ausf�
 
 **... und los geht’s. Vielen Dank, dass Sie sich an der Studie beteiligen!**
 
-## Was ist Markdown?
+{{1}} ## Was ist Markdown?
 
 
 > Markdown ist eine vereinfachte Auszeichnungssprache, die von John Gruber und Aaron Swartz entworfen und im Dezember 2004 mit Version 1.0.1 spezifiziert wurde. Ein Ziel von Markdown ist, dass schon die Ausgangsform ohne weitere Konvertierung leicht lesbar ist. Als Auszeichnungselemente wurden daher vor allem Auszeichnungsarten verwendet, die in Plain text und E-Mails üblich sind. Auch andere Auszeichnungssprachen mit ähnlichen Zielen zur Lesbarkeit – wie reStructuredText oder Textile – hatten Einfluss auf die Syntax.
