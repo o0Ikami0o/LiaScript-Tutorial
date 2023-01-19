@@ -260,7 +260,7 @@ Weitere Einstellungen:
 
 * language: sorgt dafür, dass alle Bezeichner und Hilfen deutsch dargestellt werden, Sie können auch en, ru, uk, es, .. wählen um andere Lokalisationen zu definieren
 * narrator: definiert die Standard-Stimme für die Sprachausgabe. Diese lassen wir im Moment noch eingestellt auf `Deutsch Female`
-
+{{1}}
 ### Animationen
 
 Es kann nützlich sein, den Nutzer nicht direkt mit überladenen Folien zu überfordern, sondern Informationen Stück für Stück einzublenden, bzw. Elemente auch wieder zu entfernen. In LiaScript wird die folgende Notation genutzt:
