@@ -271,7 +271,7 @@ Es kann nützlich sein, den Nutzer nicht direkt mit überladenen Folien zu über
 
 
 Diese doppelt geschweiften Klammern müssen vor jedem Markdown-Block aufgeführt werden. Die erste Zahl definiert bei welchem Fragment ein Element erscheint und die zweite optionale Zahl definiert, wann ein Element wieder verschwinden soll.
-
+`
 Damit die Darstellung auch im Text optisch ansprechender dargestellt wird, können auch mehrere Leerzeichen dem Animations-Kommando vorangestellt werden. Nummern können mehrfach genutzt werden um verschiedene Blöcke gleichzeitig erscheinen und verschwinden zu lassen.
 
 
@@ -281,8 +281,8 @@ Damit die Darstellung auch im Text optisch ansprechender dargestellt wird, könn
 #### Mikro-Animationen
 
 Es kann auch vorkommen, dass nur ein Wort, ein Bild oder ein anderes Element innerhalb eines Blocks ein und ausgeblendet werden soll. Nutzen sie hierfür die folgende Notation, zwei nebeneinander stehende geschweifte Klammer-Blöcke:
-Rababer
-* Einblenden: {2}{kleine __Markdown__-Elemente}
+
+* Einblenden: `2}{kleine __Markdown__-Elemente}`
 * Ein- und Ausblenden: `{1-3}{kleine __Markdown__-Element}`
 
 > **Aufgabe:** Lassen Sie das Code-Element hinter den Doppelpunkten in der oberen Aufzählung erscheinen und verschwinden, fügen sie auch ihre Tabelle ein und verändern sie die Inhalte der Zellen.
