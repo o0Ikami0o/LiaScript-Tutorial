@@ -166,7 +166,7 @@ Bei Bildern handelt es sich um einen Sonderfall eines Verweises, der nicht auf e
 Sie können natürlich auch direkt HTML in den meisten Markdown-Interpretern nutzen und darstellen. Hierfür sei auf die deutsche Webseite [selfhtml](https://wiki.selfhtml.org/) verwiesen. Jedoch soll es in diesem Abschnitt darum gehen, wie HTML-Element oder Fragmente anderer Programmiersprachen beispielhaft dargestellt werden können, sodass sie **Nicht** vom Markdown-Interpreter umformatiert werden, wie das untere Beispiel zeigt.
 
 In Markdown können hierfür drei aufeinander folgende Backticks (\`) genutzt. Auf einer deutschen Tastatur ist das die Taste rechts neben dem **[ ß ]**, wobei die Tasten **[Shift] [ \` ]** gemeinsam gedrückt werden müssen.
-
+{{1-3}}
 > **Aufgabe:** Fügen Sie drei Backticks oberhalb des HTML-Schnipsels und drei unterhalb ein, um den Abschnitt als Code-Segment zu markieren und beobachten Sie, was passiert!
 ```C
 printf("Hello Wolrd")
@@ -265,9 +265,9 @@ Weitere Einstellungen:
 
 Es kann nützlich sein, den Nutzer nicht direkt mit überladenen Folien zu überfordern, sondern Informationen Stück für Stück einzublenden, bzw. Elemente auch wieder zu entfernen. In LiaScript wird die folgende Notation genutzt:
 
+{{2}}{{* Einblenden: `{{2}}`
+* Ein- und Ausblenden: `{{1-3}}`}}
 
-* Einblenden: `{{2}}`
-* Ein- und Ausblenden: `{{1-3}}`
 
 
 Diese doppelt geschweiften Klammern müssen vor jedem Markdown-Block aufgeführt werden. Die erste Zahl definiert bei welchem Fragment ein Element erscheint und die zweite optionale Zahl definiert, wann ein Element wieder verschwinden soll.
