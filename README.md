@@ -278,13 +278,13 @@ Damit die Darstellung auch im Text optisch ansprechender dargestellt wird, könn
 > **Aufgabe:** Lassen Sie alle Absätze und Aufzählung schrittweise erscheinen und verschieden wieder verschwinden. Kopieren Sie auch die Tabelle aus dem Abschnitt [Markdown-Tabellen](#Tabellen) und blenden sie diese ein bzw. aus.
 
 
-#### Mikro-Animationen
+{{2}}#### Mikro-Animationen
 
 Es kann auch vorkommen, dass nur ein Wort, ein Bild oder ein anderes Element innerhalb eines Blocks ein und ausgeblendet werden soll. Nutzen sie hierfür die folgende Notation, zwei nebeneinander stehende geschweifte Klammer-Blöcke:
 
-* Einblenden: `2}{kleine __Markdown__-Elemente}`
+* Einblenden: `{2}{kleine __Markdown__-Elemente}`
 * Ein- und Ausblenden: `{1-3}{kleine __Markdown__-Element}`
-
+{{3}}{{Markdown}}
 > **Aufgabe:** Lassen Sie das Code-Element hinter den Doppelpunkten in der oberen Aufzählung erscheinen und verschwinden, fügen sie auch ihre Tabelle ein und verändern sie die Inhalte der Zellen.
 
 **Block und Mikro-Animationen können auch kombiniert eingesetzt werden.**
